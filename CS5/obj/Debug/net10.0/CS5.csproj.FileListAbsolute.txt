@@ -1,0 +1,15 @@
+/Users/rodrigo/Desktop/CSharp/CS5/bin/Debug/net10.0/CS5
+/Users/rodrigo/Desktop/CSharp/CS5/bin/Debug/net10.0/CS5.deps.json
+/Users/rodrigo/Desktop/CSharp/CS5/bin/Debug/net10.0/CS5.runtimeconfig.json
+/Users/rodrigo/Desktop/CSharp/CS5/bin/Debug/net10.0/CS5.dll
+/Users/rodrigo/Desktop/CSharp/CS5/bin/Debug/net10.0/CS5.pdb
+/Users/rodrigo/Desktop/CSharp/CS5/obj/Debug/net10.0/CS5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Desktop/CSharp/CS5/obj/Debug/net10.0/CS5.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/CSharp/CS5/obj/Debug/net10.0/CS5.AssemblyInfo.cs
+/Users/rodrigo/Desktop/CSharp/CS5/obj/Debug/net10.0/CS5.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/CSharp/CS5/obj/Debug/net10.0/CS5.sourcelink.json
+/Users/rodrigo/Desktop/CSharp/CS5/obj/Debug/net10.0/CS5.dll
+/Users/rodrigo/Desktop/CSharp/CS5/obj/Debug/net10.0/refint/CS5.dll
+/Users/rodrigo/Desktop/CSharp/CS5/obj/Debug/net10.0/CS5.pdb
+/Users/rodrigo/Desktop/CSharp/CS5/obj/Debug/net10.0/CS5.genruntimeconfig.cache
+/Users/rodrigo/Desktop/CSharp/CS5/obj/Debug/net10.0/ref/CS5.dll

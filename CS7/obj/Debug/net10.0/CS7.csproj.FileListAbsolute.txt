@@ -1,0 +1,15 @@
+/Users/rodrigo/Desktop/CSharp/CS7/obj/Debug/net10.0/CS7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Desktop/CSharp/CS7/obj/Debug/net10.0/CS7.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/CSharp/CS7/obj/Debug/net10.0/CS7.AssemblyInfo.cs
+/Users/rodrigo/Desktop/CSharp/CS7/obj/Debug/net10.0/CS7.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/CSharp/CS7/obj/Debug/net10.0/CS7.sourcelink.json
+/Users/rodrigo/Desktop/CSharp/CS7/bin/Debug/net10.0/CS7
+/Users/rodrigo/Desktop/CSharp/CS7/bin/Debug/net10.0/CS7.deps.json
+/Users/rodrigo/Desktop/CSharp/CS7/bin/Debug/net10.0/CS7.runtimeconfig.json
+/Users/rodrigo/Desktop/CSharp/CS7/bin/Debug/net10.0/CS7.dll
+/Users/rodrigo/Desktop/CSharp/CS7/bin/Debug/net10.0/CS7.pdb
+/Users/rodrigo/Desktop/CSharp/CS7/obj/Debug/net10.0/CS7.dll
+/Users/rodrigo/Desktop/CSharp/CS7/obj/Debug/net10.0/refint/CS7.dll
+/Users/rodrigo/Desktop/CSharp/CS7/obj/Debug/net10.0/CS7.pdb
+/Users/rodrigo/Desktop/CSharp/CS7/obj/Debug/net10.0/CS7.genruntimeconfig.cache
+/Users/rodrigo/Desktop/CSharp/CS7/obj/Debug/net10.0/ref/CS7.dll

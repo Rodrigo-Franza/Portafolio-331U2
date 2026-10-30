@@ -1,0 +1,124 @@
+﻿using System;
+
+namespace CS5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // // UNIDAD 1: Estructuras de Control II
+            // // UNIDAD 2: Funciones II
+
+            // // SESIÓN 12: Instrucción While
+
+            // /*
+            // SINTAXIS
+
+
+            // */
+
+            // int i = 1;
+
+            // while (i <= 10)
+            // {
+            //     Console.WriteLine($"Iterador {i}");
+            //     i++;
+            // }
+
+
+            // // ejercitacion
+
+            // int m = 1;
+
+            // while (m < 6)
+            // {
+            //     Console.WriteLine($"Rodrigo Franza");
+            //     m++;
+            // }
+
+            // int d = 10;
+
+            // while (d > 0)
+            // {
+            //     Console.WriteLine(d);
+            //     d--;
+            // }
+
+            // // secuencia 3 6 9 12 15 18
+
+            // int s = 3;
+
+            // while (s <= 18)
+            // {
+            //     Console.WriteLine($"Numero: {s}");
+            //     s += 3;
+            // }
+
+            // int a = 16;
+
+
+            // while (a >= 1)
+            // {
+            //     Console.WriteLine("331");
+            //     a -= 2;
+            // }
+
+            // /*
+            // Actividadd 1: Ciclo infinito
+
+            // 1. Definir un ciclo infinito ascendente.
+            // 2. Definir un ciclo infinito descendente.
+
+            // NOTA: Utilizar el operador de diferencia
+            // */
+
+            // // Ascendente
+
+            // // int it1 = 1;
+
+            // // while (it1 > 0)
+            // // {
+            // //     Console.WriteLine(it1);
+            // //     it1++;
+            // // }
+
+            // // // Descendente
+
+            // // int it2 = 99;
+
+            // // while (it2 != 100)
+            // // {
+            // //     Console.WriteLine(it2);
+            // //     it2--;
+            // // }
+
+            // Sesion 13 iteradores
+
+            int zancadas = 0;
+            double metros = 0D;
+            int hidratacion = 0;
+
+
+            while (metros < 21000)
+            {
+                // Console.WriteLine($"Metros avanzados: {metros}");
+                // Console.WriteLine($"Zancadas: {zancadas}");
+
+                zancadas++;
+
+                metros += 0.63;
+
+
+
+                if ((metros % 2000) < 0.63)
+                {
+                    hidratacion += 1;
+                    Console.WriteLine($"Hidratacion {hidratacion}");
+                    Console.WriteLine($"Zancada {zancadas} metros: {metros}");
+                }
+            }
+
+            Console.WriteLine($"A Diana le tomó {zancadas} zancadas recorrer el circuito de 21km");
+        }
+    }
+}
